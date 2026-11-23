@@ -7,3 +7,4 @@ joblib
 # IMPORTANT: use the SAME scikit-learn version that trained the model.
 # Your Part 3 notebook printed: scikit-learn 1.6.1
 scikit-learn==1.6.1
+gunicorn
